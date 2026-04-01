@@ -4,7 +4,7 @@ A JavaScript webpage demonstrating built-in objects and methods for COMP 484 Hom
 
 ## GitHub Pages Link
 
-GitHub Pages Link: (https://adamurban04.github.io/comp484-hw9-main/)]
+GitHub Pages Link: https://adamurban04.github.io/comp484-hw9-main/]
 
 ## Screenshot
 
